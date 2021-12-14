@@ -4,7 +4,7 @@
 
 ### Linux and Mac OS X
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Cronenberg-World/hsdis/HEAD/install-hsdis.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/teinnsei/hsdis/HEAD/install-hsdis.sh)"
 ```
 
 ### Windows
